@@ -14,7 +14,7 @@
 ## 📚 Tecnologías Utilizadas
 
 - **Java**: Lenguaje de programación principal.
-- **API de Tipos de Cambio**: Para obtener los tipos de cambio en tiempo real.
+- **API "Exchange Rate API"**: Para obtener los tipos de cambio en tiempo real.
 
 ---
 
