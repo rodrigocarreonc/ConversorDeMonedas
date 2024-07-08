@@ -1,7 +1,4 @@
-# 💱 Conversor de Moneda MXN
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+# 💱 Conversor de Peso Mexicano MXN
 
 ## 📜 Descripción
 
